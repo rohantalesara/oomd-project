@@ -1,8 +1,8 @@
-#Query Handling System
+# Query Handling System
 
-##Part of Object Oriented Modeling
+## Part of Object Oriented Modeling Course
 
-##Authors
+## Authors
 - Rohan Mohapatra
 - Rohan Rajesh Talesara
 - Sai Srikar K 
