@@ -40,28 +40,28 @@ Please refer [to this document.]()
 - Application is expected to run 24x7 365 with an availability of 99%.
 - Minimize the effort the end user has to put to query.
 
-##Use Case Diagram
+## Use Case Diagram
 ![use case diagram](https://github.com/rohantalesara/oomd-project/raw/master/images/useCaseDiagram.png "Use Case Diagram")
 
 Use case description [can be found here.]()
 
-##Class Diagram
+## Class Diagram
 ![class diagram](https://github.com/rohantalesara/oomd-project/raw/master/images/classDiagram.png "Class Diagram")
 
-##State Transition Diagram
+## State Transition Diagram
 ![state diagram](https://github.com/rohantalesara/oomd-project/raw/master/images/stateDiagram1.png "General Query")
 ![state diagram](https://github.com/rohantalesara/oomd-project/raw/master/images/stateDiagram2.png "Specific Query")
 
-##Sequence Diagram
+## Sequence Diagram
 ![sequence diagram](https://github.com/rohantalesara/oomd-project/raw/master/images/sequenceDiagram1.png "Log Complaint")
 ![sequence diagram](https://github.com/rohantalesara/oomd-project/raw/master/images/sequenceDiagram2.png "Check Grades")
 ![sequence diagram](https://github.com/rohantalesara/oomd-project/raw/master/images/sequenceDiagram3.png "Make A Suggestion")
 
-##Activity Diagram
+## Activity Diagram
 ![activity diagram](https://github.com/rohantalesara/oomd-project/raw/master/images/activityDiagram1.png "Forward Request")
 ![activity diagram](https://github.com/rohantalesara/oomd-project/raw/master/images/activityDiagram2.png "Specific Query")
 
-##Component Diagram
+## Component Diagram
 ![component diagram](https://github.com/rohantalesara/oomd-project/raw/master/images/componentDiagram.png "Component Diagram")
 
 
