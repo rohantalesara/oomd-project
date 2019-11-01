@@ -31,10 +31,10 @@ non-teaching staff.
 	backend to store, fetch and log data
 
 ### Functional Requirements
-Please refer [to this document.]()
+Please refer [to this document.](https://github.com/rohantalesara/oomd-project/blob/master/FunctionalRequirements.md)
 
 ### Non Functional Requirements
-Please refer [to this document.]()
+Please refer [to this document.](https://github.com/rohantalesara/oomd-project/blob/master/NonFunctionalRequirements.md)
 
 ### Other Requirements
 - Application is expected to run 24x7 365 with an availability of 99%.
@@ -43,7 +43,7 @@ Please refer [to this document.]()
 ## Use Case Diagram
 ![use case diagram](https://github.com/rohantalesara/oomd-project/raw/master/images/useCaseDiagram.png "Use Case Diagram")
 
-Use case description [can be found here.]()
+Use case description [can be found here.](https://github.com/rohantalesara/oomd-project/blob/master/UseCaseDescription.md)
 
 ## Class Diagram
 ![class diagram](https://github.com/rohantalesara/oomd-project/raw/master/images/classDiagram.png "Class Diagram")
